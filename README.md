@@ -4,6 +4,14 @@ A complete, hackathon-ready daily meal planning assistant powered by **Gemini 1.
 
 ---
 
+## 📸 Screenshots
+
+| Dashboard view | Detailed recipes |
+| --- | --- |
+| ![Dashboard](./1st.png) | ![Detailed Recipes](./2nd.png) |
+
+---
+
 ## ✨ Features
 
 * **Culinary Profile Customization**: Tailor plans by people count, dietary preferences (Vegetarian, Vegan, Eggetarian, Non-Veg), skill level, and prep time availability.
